@@ -1,0 +1,18 @@
+.dropdown {
+  display: inline-block;
+  position: relative;
+}
+
+.dropdown .items {
+  display: none;
+  position: absolute;
+  z-index: 1;
+}
+
+.dropdown .item {
+  display: block;
+}
+
+.dropdown:hover .items {
+  display: block;
+}
