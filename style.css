@@ -1,0 +1,35 @@
+:root {
+  --color: #fff;
+  --bg: #c492b1;
+  --bg-hover: #af3b6e;
+}
+
+.dropdown,
+.dropdown .items {
+  background: var(--bg);
+  left: 0;
+  font-family: sans-serif;
+}
+
+.dropdown .items {
+  min-width: 150px;
+  margin-top: 8px;
+  border-radius: 0 4px 4px 4px;
+}
+
+.dropdown,
+.dropdown .item {
+  color: var(--color);
+  padding: 8px 16px;
+  text-decoration: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.dropdown:hover {
+  border-radius: 4px 4px 0 0;
+}
+
+.dropdown .item:hover {
+  background-color: var(--bg-hover);
+}
