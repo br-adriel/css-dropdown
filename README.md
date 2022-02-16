@@ -6,6 +6,8 @@ Para utilizar a funcionalidade você só precisa do arquivo `dropdown.css`, o `s
 
 Constuído durante uma lição do [The Odin Project](https://www.theodinproject.com/).
 
+Visualize em tempo real clicando [aqui](https://br-adriel.github.io/css-dropdown/).
+
 <div>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="Selo do CSS" title="CSS">
 </div>
